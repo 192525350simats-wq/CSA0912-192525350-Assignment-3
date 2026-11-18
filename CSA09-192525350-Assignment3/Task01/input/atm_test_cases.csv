@@ -1,0 +1,6 @@
+account,amount,balance,card_reader_file
+A100,500,2000,true
+A101,abc,2000,true
+A102,-50,2000,true
+A103,2500,2000,true
+A104,100,2000,false

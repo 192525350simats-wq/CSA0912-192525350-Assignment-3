@@ -1,0 +1,3 @@
+Compile: javac -d out src/ATMWithdrawal.java
+Run: java -cp out ATMWithdrawal
+Exit code: 0

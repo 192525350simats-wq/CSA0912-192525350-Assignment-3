@@ -1,0 +1,8 @@
+Saved answer01.pdf
+Error: Could not store answer02.pdf
+Cause: Disk quota exceeded
+Exception type: SubmissionStorageException
+Error: Student is not registered for this course
+Exception type: CourseRegistrationException
+Error: Exam submission window has closed
+Exception type: ExamWindowClosedException

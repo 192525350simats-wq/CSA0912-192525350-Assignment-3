@@ -1,0 +1,3 @@
+Compile: javac -d out src/ReportGenerator.java
+Run: java -cp out ReportGenerator
+Exit code: 0

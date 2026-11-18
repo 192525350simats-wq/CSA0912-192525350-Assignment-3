@@ -1,0 +1,3 @@
+Users attempted: 100
+Successful bookings: 10
+Seats sold: 10 (expected 10)

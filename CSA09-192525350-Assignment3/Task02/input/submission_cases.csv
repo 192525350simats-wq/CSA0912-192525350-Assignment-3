@@ -1,0 +1,5 @@
+file,size_kb,registered,window_open
+answer01.pdf,120,true,true
+answer02.pdf,800,true,true
+answer03.pdf,100,false,true
+answer04.pdf,100,true,false

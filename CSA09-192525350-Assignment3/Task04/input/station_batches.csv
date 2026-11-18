@@ -1,0 +1,5 @@
+station,batch_size,creation_style
+1,25,extends Thread
+2,30,implements Runnable
+3,20,extends Thread
+4,25,implements Runnable

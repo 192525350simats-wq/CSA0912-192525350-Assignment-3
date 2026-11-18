@@ -1,0 +1,21 @@
+
+Account=A100, amount=500, cardFile=true
+Cash dispensed: Rs.500 for account A100
+Remaining balance: Rs.1500
+Transaction session closed.
+
+Account=A101, amount=abc, cardFile=true
+Input error: amount must be numeric
+Transaction session closed.
+
+Account=A102, amount=-50, cardFile=true
+Transaction rejected: Withdrawal amount must be positive
+Transaction session closed.
+
+Account=A103, amount=2500, cardFile=true
+Transaction rejected: Insufficient account balance
+Transaction session closed.
+
+Account=A104, amount=100, cardFile=false
+File error: card-reader.dat is missing
+Transaction session closed.

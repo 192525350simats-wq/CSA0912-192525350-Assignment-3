@@ -1,0 +1,20 @@
+Pool size: 1, success: 4, failure: 3, score total: 320, elapsed_ms: 19
+  Failure: Corrupt score data in student05.txt
+  Failure: Score outside 0..100 in student06.txt
+  Failure: Missing file: missing_student.txt
+  Successful files: [student01.txt, student02.txt, student03.txt, student04.txt]
+Pool size: 2, success: 4, failure: 3, score total: 320, elapsed_ms: 1
+  Failure: Corrupt score data in student05.txt
+  Failure: Score outside 0..100 in student06.txt
+  Failure: Missing file: missing_student.txt
+  Successful files: [student01.txt, student02.txt, student03.txt, student04.txt]
+Pool size: 4, success: 4, failure: 3, score total: 320, elapsed_ms: 3
+  Failure: Corrupt score data in student05.txt
+  Failure: Score outside 0..100 in student06.txt
+  Failure: Missing file: missing_student.txt
+  Successful files: [student01.txt, student02.txt, student03.txt, student04.txt]
+Pool size: 8, success: 4, failure: 3, score total: 320, elapsed_ms: 1
+  Failure: Corrupt score data in student05.txt
+  Failure: Score outside 0..100 in student06.txt
+  Failure: Missing file: missing_student.txt
+  Successful files: [student01.txt, student02.txt, student03.txt, student04.txt]

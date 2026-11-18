@@ -1,0 +1,3 @@
+Compile: javac -d out src/TokenCounter.java
+Run: java -cp out TokenCounter
+Exit code: 0

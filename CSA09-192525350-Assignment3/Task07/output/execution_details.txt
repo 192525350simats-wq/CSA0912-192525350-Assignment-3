@@ -1,0 +1,3 @@
+Compile: javac -d out src/ResultProcessor.java
+Run: java -cp out ResultProcessor
+Exit code: 0

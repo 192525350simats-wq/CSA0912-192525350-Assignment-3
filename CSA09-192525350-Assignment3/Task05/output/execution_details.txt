@@ -1,0 +1,3 @@
+Compile: javac -d out src/SeatBooking.java
+Run: java -cp out SeatBooking
+Exit code: 0

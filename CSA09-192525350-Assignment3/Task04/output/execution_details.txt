@@ -1,0 +1,3 @@
+Compile: javac -d out src/ScannerStations.java
+Run: java -cp out ScannerStations
+Exit code: 0

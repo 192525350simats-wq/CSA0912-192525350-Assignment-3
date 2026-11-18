@@ -1,0 +1,13 @@
+--- Manual close version ---
+Manual version failed at missing_store.txt: input/missing_store.txt
+DAILY SALES SUMMARY
+store1.txt: Store 1 | Sales: 12500
+store1.txt: Store 1 | Returns: 300
+--- Try-with-resources version ---
+Try-with-resources logged missing_store.txt: input/missing_store.txt
+DAILY SALES SUMMARY
+store1.txt: Store 1 | Sales: 12500
+store1.txt: Store 1 | Returns: 300
+store2.txt: Store 2 | Sales: 18750
+store2.txt: Store 2 | Returns: 450
+Both versions completed their processing loops; resource closure is automatic in the second version.

@@ -1,0 +1,3 @@
+DAILY SALES SUMMARY
+store1.txt: Store 1 | Sales: 12500
+store1.txt: Store 1 | Returns: 300
